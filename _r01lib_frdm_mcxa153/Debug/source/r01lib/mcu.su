@@ -1,0 +1,9 @@
+/Users/tedd/dev/mcuxpresso/FRDM_MCXA153_GPIO_and_SPI_freq_test/_r01lib_frdm_mcxa153/drivers/fsl_clock.h:546:20:void CLOCK_EnableClock(clock_ip_name_t)	32	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/arm-none-eabi/thumb/v8-m.main/nofp/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../source/r01lib/mcu.cpp:28:6:void start_mcu()	16	static
+../source/r01lib/mcu.cpp:34:6:void start_message()	8	static
+../source/r01lib/mcu.cpp:41:6:void init_mcu()	8	static
+../source/r01lib/mcu.cpp:187:6:void wait(double)	24	static
+../source/r01lib/mcu.cpp:192:6:void wait_ms(unsigned int)	16	static
+../source/r01lib/mcu.cpp:197:6:void wait_us(unsigned int)	16	static
+../source/r01lib/mcu.cpp:202:6:void panic(const char*)	96	static

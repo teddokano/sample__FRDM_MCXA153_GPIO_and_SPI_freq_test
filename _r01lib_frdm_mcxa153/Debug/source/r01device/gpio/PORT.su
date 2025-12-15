@@ -1,0 +1,8 @@
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/arm-none-eabi/thumb/v8-m.main/nofp/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../source/r01device/gpio/PORT.cpp:9:1:PORT::PORT(GPIO_base&, int, uint8_t)	24	static
+../source/r01device/gpio/PORT.cpp:14:6:void PORT::config(uint8_t)	16	static
+../source/r01device/gpio/PORT.cpp:19:6:void PORT::set(access_word, uint8_t)	16	static
+../source/r01device/gpio/PORT.cpp:24:7:PORT& PORT::operator=(uint8_t)	16	static
+../source/r01device/gpio/PORT.cpp:30:7:PORT& PORT::operator=(PORT&)	16	static
+../source/r01device/gpio/PORT.cpp:35:1:PORT::operator int()	16	static
+../source/r01device/gpio/PORT.cpp:40:1:GPIO_PORT::GPIO_PORT(GPIO_base&, int, uint8_t)	24	static

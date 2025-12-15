@@ -1,0 +1,8 @@
+/Users/tedd/dev/mcuxpresso/FRDM_MCXA153_GPIO_and_SPI_freq_test/_r01lib_frdm_mcxa153/drivers/fsl_reset.h:196:20:void RESET_ReleasePeripheralReset(reset_ip_name_t)	16	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/arm-none-eabi/thumb/v8-m.main/nofp/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../source/r01lib/spi.cpp:61:1:SPI::SPI(int, int, int, int)	120	static
+../source/r01lib/spi.cpp:130:1:SPI::~SPI()	16	static
+../source/r01lib/spi.cpp:130:1:virtual SPI::~SPI()	16	static
+../source/r01lib/spi.cpp:135:6:virtual void SPI::frequency(uint32_t)	16	static
+../source/r01lib/spi.cpp:147:6:virtual void SPI::mode(uint8_t)	16	static
+../source/r01lib/spi.cpp:156:10:virtual status_t SPI::write(uint8_t*, uint8_t*, int)	40	static

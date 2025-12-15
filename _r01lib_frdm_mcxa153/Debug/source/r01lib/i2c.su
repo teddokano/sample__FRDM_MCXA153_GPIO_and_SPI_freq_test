@@ -1,0 +1,28 @@
+/Users/tedd/dev/mcuxpresso/FRDM_MCXA153_GPIO_and_SPI_freq_test/_r01lib_frdm_mcxa153/drivers/fsl_reset.h:196:20:void RESET_ReleasePeripheralReset(reset_ip_name_t)	16	static
+/Users/tedd/dev/mcuxpresso/FRDM_MCXA153_GPIO_and_SPI_freq_test/_r01lib_frdm_mcxa153/drivers/fsl_lpi2c.h:606:24:uint32_t LPI2C_MasterGetStatusFlags(LPI2C_Type*)	16	static
+/Users/tedd/dev/mcuxpresso/FRDM_MCXA153_GPIO_and_SPI_freq_test/_r01lib_frdm_mcxa153/drivers/fsl_lpi2c.h:758:20:void LPI2C_MasterGetFifoCounts(LPI2C_Type*, size_t*, size_t*)	24	static
+/Users/tedd/dev/mcuxpresso/FRDM_MCXA153_GPIO_and_SPI_freq_test/_r01lib_frdm_mcxa153/drivers/fsl_lpi2c.h:840:24:status_t LPI2C_MasterRepeatedStart(LPI2C_Type*, uint8_t, lpi2c_direction_t)	16	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/arm-none-eabi/thumb/v8-m.main/nofp/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../source/r01lib/i2c.cpp:40:1:I2C::I2C(int, int, bool)	48	static
+../source/r01lib/i2c.cpp:132:1:I2C::~I2C()	16	static
+../source/r01lib/i2c.cpp:132:1:virtual I2C::~I2C()	16	static
+../source/r01lib/i2c.cpp:137:6:virtual void I2C::frequency(uint32_t)	24	static
+../source/r01lib/i2c.cpp:142:6:virtual void I2C::pullup(bool)	24	static
+../source/r01lib/i2c.cpp:150:10:virtual status_t I2C::write(uint8_t, const uint8_t*, int, bool)	48	static
+../source/r01lib/i2c.cpp:161:10:virtual status_t I2C::read(uint8_t, uint8_t*, int, bool)	48	static
+../source/r01lib/i2c.cpp:172:10:virtual status_t I2C::write_core(uint8_t, const uint8_t*, int, bool)	32	static
+../source/r01lib/i2c.cpp:209:10:virtual status_t I2C::read_core(uint8_t, uint8_t*, int, bool)	32	static
+../source/r01lib/i2c.cpp:234:10:virtual status_t I2C::reg_write(uint8_t, uint8_t, const uint8_t*, int)	56	static
+../source/r01lib/i2c.cpp:246:10:virtual status_t I2C::reg_write(uint8_t, uint8_t, uint8_t)	40	static
+../source/r01lib/i2c.cpp:256:10:virtual status_t I2C::reg_read(uint8_t, uint8_t, uint8_t*, int)	40	static
+../source/r01lib/i2c.cpp:266:9:virtual uint8_t I2C::reg_read(uint8_t, uint8_t)	24	static
+../source/r01lib/i2c.cpp:272:10:virtual status_t I2C::write(uint8_t, uint8_t, bool)	32	static
+../source/r01lib/i2c.cpp:277:9:virtual uint8_t I2C::read(uint8_t, bool)	40	static
+../source/r01lib/i2c.cpp:286:17:virtual void (* I2C::err_callback(err_cb_ptr))(status_t, uint8_t)	24	static
+../source/r01lib/i2c.cpp:294:6:static void I2C::err_handling(status_t, uint8_t)	16	static
+../source/r01lib/i2c.cpp:302:6:virtual bool I2C::ping(uint8_t)	40	static
+../source/r01lib/i2c.cpp:308:6:virtual void I2C::scan(uint8_t, uint8_t, bool*)	40	static
+../source/r01lib/i2c.cpp:314:6:virtual void I2C::scan(uint8_t, uint8_t)	160	static
+../source/r01lib/i2c.cpp:337:6:virtual void I2C::scan(uint8_t)	16	static
+../source/r01lib/i2c.cpp:342:10:virtual status_t I2C::ccc_set(uint8_t, uint8_t, uint8_t)	16	static
+../source/r01lib/i2c.cpp:347:10:virtual status_t I2C::ccc_get(uint8_t, uint8_t, uint8_t*, uint8_t)	24	static

@@ -1,0 +1,5 @@
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/arm-none-eabi/thumb/v8-m.main/nofp/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../source/r01device/rtc/PCF85063TP.cpp:9:6:void warning()	4	static
+../source/r01device/rtc/PCF85063TP.cpp:14:1:PCF85063TP::PCF85063TP(I2C&, uint8_t)	24	static
+../source/r01device/rtc/PCF85063TP.cpp:18:1:PCF85063TP::~PCF85063TP()	16	static
+../source/r01device/rtc/PCF85063TP.cpp:18:1:virtual PCF85063TP::~PCF85063TP()	16	static

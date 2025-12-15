@@ -1,0 +1,11 @@
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/arm-none-eabi/thumb/v8-m.main/nofp/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../source/r01device/led/GradationControl.cpp:9:1:GradationControl::GradationControl(PCA995x*, int, uint32_t)	24	static
+../source/r01device/led/GradationControl.cpp:16:1:GradationControl::~GradationControl()	16	static
+../source/r01device/led/GradationControl.cpp:16:1:virtual GradationControl::~GradationControl()	16	static
+../source/r01device/led/GradationControl.cpp:20:7:float GradationControl::set_gradation(float, float, bool, bool, float, float, bool, bool)	80	static
+../source/r01device/led/GradationControl.cpp:93:6:void GradationControl::gradation_channel_enable(uint32_t)	56	dynamic
+../source/r01device/led/GradationControl.cpp:107:6:void GradationControl::gradation_group_assign(uint32_t)	72	dynamic
+../source/r01device/led/GradationControl.cpp:131:6:void GradationControl::add_channel(uint8_t)	40	static
+../source/r01device/led/GradationControl.cpp:160:6:void GradationControl::control(int)	32	static
+../source/r01device/led/GradationControl.cpp:176:6:void GradationControl::start(bool)	16	static
+../source/r01device/led/GradationControl.cpp:181:6:void GradationControl::stop()	16	static

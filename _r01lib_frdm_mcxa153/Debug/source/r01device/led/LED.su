@@ -1,0 +1,4 @@
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/arm-none-eabi/thumb/v8-m.main/nofp/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../source/r01device/led/LED.cpp:9:1:LED::LED(LEDDriver&, int)	24	static
+../source/r01device/led/LED.cpp:11:7:float LED::operator=(float)	16	static
+../source/r01device/led/LED.cpp:17:1:_LED::_LED(LEDDriver&, int)	24	static

@@ -1,0 +1,14 @@
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/arm-none-eabi/thumb/v8-m.main/nofp/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../source/r01device/gpio/GPIO_SPI.cpp:9:1:GPIO_SPI::GPIO_SPI(SPI&, uint8_t)	24	static
+../source/r01device/gpio/GPIO_SPI.cpp:13:1:GPIO_SPI::~GPIO_SPI()	16	static
+../source/r01device/gpio/GPIO_SPI.cpp:13:1:virtual GPIO_SPI::~GPIO_SPI()	16	static
+../source/r01device/gpio/GPIO_SPI.cpp:17:5:virtual int GPIO_SPI::reg_w(uint8_t, const uint8_t*, uint16_t)	80	dynamic
+../source/r01device/gpio/GPIO_SPI.cpp:31:5:virtual int GPIO_SPI::reg_w(uint8_t, uint8_t)	32	static
+../source/r01device/gpio/GPIO_SPI.cpp:45:5:virtual int GPIO_SPI::reg_r(uint8_t, uint8_t*, uint16_t)	80	dynamic
+../source/r01device/gpio/GPIO_SPI.cpp:60:9:virtual uint8_t GPIO_SPI::reg_r(uint8_t)	32	static
+../source/r01device/gpio/GPIO_SPI.cpp:74:6:virtual void GPIO_SPI::write_r8(uint8_t, uint8_t)	16	static
+../source/r01device/gpio/GPIO_SPI.cpp:79:6:virtual void GPIO_SPI::write_r16(uint8_t, uint16_t)	32	static
+../source/r01device/gpio/GPIO_SPI.cpp:89:9:virtual uint8_t GPIO_SPI::read_r8(uint8_t)	16	static
+../source/r01device/gpio/GPIO_SPI.cpp:94:10:virtual uint16_t GPIO_SPI::read_r16(uint8_t)	32	static
+../source/r01device/gpio/GPIO_SPI.cpp:103:6:virtual void GPIO_SPI::bit_op8(uint8_t, uint8_t, uint8_t)	24	static
+../source/r01device/gpio/GPIO_SPI.cpp:113:6:virtual void GPIO_SPI::bit_op16(uint8_t, uint16_t, uint16_t)	32	static

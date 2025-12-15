@@ -1,0 +1,10 @@
+/Users/tedd/dev/mcuxpresso/FRDM_MCXA153_GPIO_and_SPI_freq_test/_r01lib_frdm_mcxa153/CMSIS/core_cm33.h:2390:22:void __NVIC_EnableIRQ(IRQn_Type)	16	static
+/Users/tedd/dev/mcuxpresso/FRDM_MCXA153_GPIO_and_SPI_freq_test/_r01lib_frdm_mcxa153/drivers/fsl_common_arm.h:570:24:status_t EnableIRQ(IRQn_Type)	24	static
+/Users/tedd/dev/mcuxpresso/FRDM_MCXA153_GPIO_and_SPI_freq_test/_r01lib_frdm_mcxa153/drivers/fsl_gpio.h:466:20:void GPIO_SetPinInterruptConfig(GPIO_Type*, uint32_t, gpio_interrupt_config_t)	24	static
+../source/r01lib/InterruptIn.cpp:35:6:void irq_handler(int)	24	static
+../source/r01lib/InterruptIn.cpp:47:1:InterruptIn::InterruptIn(uint8_t)	16	static
+../source/r01lib/InterruptIn.cpp:52:1:InterruptIn::~InterruptIn()	16	static
+../source/r01lib/InterruptIn.cpp:52:1:virtual InterruptIn::~InterruptIn()	16	static
+../source/r01lib/InterruptIn.cpp:54:6:virtual void InterruptIn::rise(func_ptr)	16	static
+../source/r01lib/InterruptIn.cpp:59:6:virtual void InterruptIn::fall(func_ptr)	16	static
+../source/r01lib/InterruptIn.cpp:64:6:void InterruptIn::regist(func_ptr, gpio_interrupt_config_t)	32	static

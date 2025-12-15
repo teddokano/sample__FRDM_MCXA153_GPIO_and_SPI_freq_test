@@ -1,0 +1,13 @@
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/arm-none-eabi/thumb/v8-m.main/nofp/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../source/r01device/afe/SPI_for_AFE.h:67:17:int32_t SPI_for_AFE::get_data16(uint8_t*)	16	static
+../source/r01device/afe/SPI_for_AFE.h:72:17:int32_t SPI_for_AFE::get_data24(uint8_t*)	32	static
+../source/r01device/afe/SPI_for_AFE.cpp:12:1:SPI_for_AFE::SPI_for_AFE(SPI&, bool)	24	static
+../source/r01device/afe/SPI_for_AFE.cpp:16:1:SPI_for_AFE::~SPI_for_AFE()	16	static
+../source/r01device/afe/SPI_for_AFE.cpp:16:1:virtual SPI_for_AFE::~SPI_for_AFE()	16	static
+../source/r01device/afe/SPI_for_AFE.cpp:20:6:void SPI_for_AFE::txrx(uint8_t*, int)	88	static
+../source/r01device/afe/SPI_for_AFE.cpp:32:6:void SPI_for_AFE::write_r16(uint16_t)	24	static
+../source/r01device/afe/SPI_for_AFE.cpp:40:6:void SPI_for_AFE::write_r16(uint16_t, uint16_t)	24	static
+../source/r01device/afe/SPI_for_AFE.cpp:48:10:uint16_t SPI_for_AFE::read_r16(uint16_t)	24	static
+../source/r01device/afe/SPI_for_AFE.cpp:62:6:void SPI_for_AFE::write_r24(uint16_t, uint32_t)	32	static
+../source/r01device/afe/SPI_for_AFE.cpp:70:9:int32_t SPI_for_AFE::read_r24(uint16_t)	24	static
+../source/r01device/afe/SPI_for_AFE.cpp:81:6:void SPI_for_AFE::burst(uint32_t*, int, int)	80	static

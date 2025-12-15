@@ -1,0 +1,24 @@
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/std_function.h:241:5:std::_Function_base::~_Function_base()	16	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/std_function.h:247:10:bool std::_Function_base::_M_empty() const	16	static
+../source/r01lib/Ticker.cpp:16:6:void _ticker_callback()	8	static
+../source/r01lib/Ticker.cpp:23:1:Ticker::Ticker()	16	static
+../source/r01lib/Ticker.cpp:29:1:Ticker::~Ticker()	16	static
+../source/r01lib/Ticker.cpp:29:1:virtual Ticker::~Ticker()	16	static
+../source/r01lib/Ticker.cpp:31:6:virtual void Ticker::attach(ticker_callback_fp_t, float)	32	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/std_function.h:239:5:constexpr std::_Function_base::_Function_base()	16	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/std_function.h:368:7:)>::function() [with _Res = void; _ArgTypes = {}]	16	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/std_function.h:573:16:)>::operator bool() const [with _Res = void; _ArgTypes = {}]	16	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/std_function.h:587:7:) const [with _Res = void; _ArgTypes = {}]	16	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/std_function.h:501:7:)>::operator=(std::nullptr_t) [with _Res = void; _ArgTypes = {}]	16	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/std_function.h:334:11:std::function<void()>::~function()	16	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/std_function.h:469:7:)>&) [with _Res = void; _ArgTypes = {}]	32	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/std_function.h:386:7:)>&) [with _Res = void; _ArgTypes = {}]	16	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/std_function.h:556:12:)>&) [with _Res = void; _ArgTypes = {}]	16	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/move.h:214:5:constexpr std::_Require<std::__not_<std::__is_tuple_like<_Tp> >, std::is_move_constructible<_Tp>, std::is_move_assignable<_Tp> > std::swap(_Tp&, _Tp&) [with _Tp = _Any_data]	24	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/move.h:214:5:constexpr std::_Require<std::__not_<std::__is_tuple_like<_Tp> >, std::is_move_constructible<_Tp>, std::is_move_assignable<_Tp> > std::swap(_Tp&, _Tp&) [with _Tp = bool (*)(_Any_data&, const _Any_data&, _Manager_operation)]	24	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/move.h:214:5:constexpr std::_Require<std::__not_<std::__is_tuple_like<_Tp> >, std::is_move_constructible<_Tp>, std::is_move_assignable<_Tp> > std::swap(_Tp&, _Tp&) [with _Tp = void (*)(const _Any_data&)]	24	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/move.h:127:5:constexpr typename std::remove_reference<_Tp>::type&& std::move(_Tp&&) [with _Tp = _Any_data&]	16	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/move.h:127:5:constexpr typename std::remove_reference<_Tp>::type&& std::move(_Tp&&) [with _Tp = bool (*&)(_Any_data&, const _Any_data&, _Manager_operation)]	16	static
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/bits/move.h:127:5:constexpr typename std::remove_reference<_Tp>::type&& std::move(_Tp&&) [with _Tp = void (*&)(const _Any_data&)]	16	static
+../source/r01lib/Ticker.cpp:35:1:void __static_initialization_and_destruction_0()	8	static
+../source/r01lib/Ticker.cpp:35:1:cpp)	8	static

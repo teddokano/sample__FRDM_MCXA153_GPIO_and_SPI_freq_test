@@ -1,0 +1,12 @@
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/arm-none-eabi/thumb/v8-m.main/nofp/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../source/r01device/lcd/LCDDriver.cpp:13:1:PCA8561::PCA8561(I2C&, uint8_t)	24	static
+../source/r01device/lcd/LCDDriver.cpp:18:6:void PCA8561::init()	24	static
+../source/r01device/lcd/LCDDriver.cpp:28:1:PCA8561::~PCA8561()	16	static
+../source/r01device/lcd/LCDDriver.cpp:28:1:virtual PCA8561::~PCA8561()	16	static
+../source/r01device/lcd/LCDDriver.cpp:32:6:void PCA8561::begin()	16	static
+../source/r01device/lcd/LCDDriver.cpp:37:6:void PCA8561::com_seg(int, int, bool)	80	static
+../source/r01device/lcd/LCDDriver.cpp:49:6:void PCA8561::puts(const char*, int)	32	static
+../source/r01device/lcd/LCDDriver.cpp:57:6:void PCA8561::putchar(char)	24	static
+../source/r01device/lcd/LCDDriver.cpp:80:6:void PCA8561::flush()	24	static
+../source/r01device/lcd/LCDDriver.cpp:85:6:void PCA8561::clear(bool)	24	static
+../source/r01device/lcd/LCDDriver.cpp:96:6:void PCA8561::char2seg(int, int)	32	static

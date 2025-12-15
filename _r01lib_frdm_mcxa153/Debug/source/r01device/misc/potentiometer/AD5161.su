@@ -1,0 +1,21 @@
+/Applications/MCUXpressoIDE_25.6.136/ide/plugins/com.nxp.mcuxpresso.tools.macosx_25.6.0.202501151204/tools/arm-none-eabi/include/c++/14.2.1/arm-none-eabi/thumb/v8-m.main/nofp/bits/gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+../source/r01device/misc/potentiometer/AD5161.cpp:9:1:AD5161_base::AD5161_base()	16	static
+../source/r01device/misc/potentiometer/AD5161.cpp:10:1:AD5161_base::~AD5161_base()	16	static
+../source/r01device/misc/potentiometer/AD5161.cpp:10:1:virtual AD5161_base::~AD5161_base()	16	static
+../source/r01device/misc/potentiometer/AD5161.cpp:11:6:virtual void AD5161_base::begin()	16	static
+../source/r01device/misc/potentiometer/AD5161.cpp:13:1:AD5161_I2C::AD5161_I2C(I2C&, uint8_t)	24	static
+../source/r01device/misc/potentiometer/AD5161.cpp:14:1:AD5161_I2C::~AD5161_I2C()	16	static
+../source/r01device/misc/potentiometer/AD5161.cpp:14:1:virtual AD5161_I2C::~AD5161_I2C()	16	static
+../source/r01device/misc/potentiometer/AD5161.cpp:16:6:void AD5161_I2C::value(uint8_t)	16	static
+../source/r01device/misc/potentiometer/AD5161.cpp:21:9:uint8_t AD5161_I2C::value()	24	static
+../source/r01device/misc/potentiometer/AD5161.cpp:29:13:AD5161_I2C& AD5161_I2C::operator=(uint8_t)	16	static
+../source/r01device/misc/potentiometer/AD5161.cpp:35:13:AD5161_I2C& AD5161_I2C::operator=(AD5161_I2C&)	16	static
+../source/r01device/misc/potentiometer/AD5161.cpp:40:1:AD5161_I2C::operator int()	16	static
+../source/r01device/misc/potentiometer/AD5161.cpp:46:1:AD5161_SPI::AD5161_SPI(SPI&)	16	static
+../source/r01device/misc/potentiometer/AD5161.cpp:47:1:AD5161_SPI::~AD5161_SPI()	16	static
+../source/r01device/misc/potentiometer/AD5161.cpp:47:1:virtual AD5161_SPI::~AD5161_SPI()	16	static
+../source/r01device/misc/potentiometer/AD5161.cpp:49:9:uint8_t AD5161_SPI::value(uint8_t)	32	static
+../source/r01device/misc/potentiometer/AD5161.cpp:59:9:uint8_t AD5161_SPI::value()	16	static
+../source/r01device/misc/potentiometer/AD5161.cpp:64:13:AD5161_SPI& AD5161_SPI::operator=(uint8_t)	16	static
+../source/r01device/misc/potentiometer/AD5161.cpp:70:13:AD5161_SPI& AD5161_SPI::operator=(AD5161_SPI&)	16	static
+../source/r01device/misc/potentiometer/AD5161.cpp:75:1:AD5161_SPI::operator int()	16	static
