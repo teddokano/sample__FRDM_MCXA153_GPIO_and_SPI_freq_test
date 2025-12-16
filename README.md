@@ -12,8 +12,8 @@ These are ample code projects for testing FRDM-MCXA153 GPIO toggle speed and SPI
 
 This repository is distributed as a snapshot of MCUXpresso IDE workspace containing 3 projects. 
 
-### SPI_SCLK_freq_check_FRDM_MCXA153
-SPI operation sample with SPI clock frequency of 25MHz. The setting of clock frequency is done using `r01lib` class driver API.   
+### 1. SPI_SCLK_freq_check_FRDM_MCXA153
+SPI operation sample with SPI clock frequency of 25MHz. The setting of clock frequency is done using [`r01lib`](https://github.com/teddokano/r01lib) class driver API.   
 
 ```cpp
 #include	"r01lib.h"
@@ -24,9 +24,10 @@ int main( void )
 {
 	spi.frequency( 25'000'000 );
 	spi.mode( 0 );
+	...
 ```
 
-### SPI_SCLK_freq_check_FRDM_MCXA153
+### 2. GPIO_toggle_freq_check_FRDM_MCXA153
 GPIO tggling speed test sample.  
 This sample shows a blue LED on the board toggles in visible spee.   
 And D0 pin at Arduino-socket toggles in maximum speed of the microcontroller. 
@@ -88,6 +89,11 @@ int main( void )
 	}
 }
 ```
+
+### 3. _r01lib_frdm_mcxa153
+This is a library project which will be linked from application projects of SPI_SCLK_freq_check_FRDM_MCXA153 and GPIO_toggle_freq_check_FRDM_MCXA153.  
+This project can be built but cannot run as an application.  
+
 
 ## How to use this? 
 
